@@ -9,7 +9,6 @@ It’s built using **pure HTML, CSS, and JavaScript (Canvas)** — no frameworks
 
 ## 🚀 Try It Out
 👉 [Open ConvPlayground](https://convplayground.onrender.com)  
-*(Replace with your GitHub Pages link)*
 
 ---
 
